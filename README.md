@@ -15,4 +15,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=satyam1436&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/satyam-kumar-6626032ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📺 [YouTube](https://youtube.com/@satyamintech?si=GY-2_s9T8_y0KBdv)  
+- 📷 [Instagram](https://www.instagram.com/satyamintech?utm_source=qr&igsh=MTFtbHZmZjlqc3ZyYQ==)  
+- 📧 Email: work.satyamkumar05@gmail.com 
+
+---
+
+✨ *Thanks for visiting my GitHub profile! Feel free to check out my projects and connect with me.*  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
