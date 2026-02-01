@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Satyam!<br><br>- 🌱 I’m currently learning Full Stack Development<br>- 👨‍💻 I love working on Web Development Projects (MERN stack, APIs, etc.)<br>- 🎯 Goal: To become a skilled software developer and contribute to impactful projects<br>- ⚡ Fun fact: I enjoy teaching programming through videos 📹
+# Hi there 👋, I'm Satyam!<br><br>- 🌱 I’m a Full Stack Developer<br>- 👨‍💻 I love working on Web Development Projects (MERN stack, APIs, etc.)<br>- 🎯 Goal: To become a skilled software developer and contribute to impactful projects<br>- ⚡ Fun fact: I enjoy teaching programming through videos 📹
 
 
 # 💻 Tech Stack:
